@@ -89,7 +89,7 @@ public class Main {
         int totalDaysFiveHundred= 7000/500;
         System.out.println("На похудение спортсмена уйдет " + totalDaysFiveHundred + " дней, если он будет терять каждый день по 500 грамм");
         int averageNumberOfDays = (totalDaysTwoHundredAndFifty+totalDaysFiveHundred)/2;
-        System.out.println("В среднем на похудение спортсмена уйдет " + averageNumberOfDays + " день.");
+        System.out.println("В среднем на похудение спортсмена уйдет " + averageNumberOfDays + " день!");
 
         // Задание 8
         System.out.println("Задание 8");
